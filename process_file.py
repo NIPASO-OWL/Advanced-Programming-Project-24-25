@@ -5,7 +5,7 @@ from Bio.SeqUtils import gc_fraction
 from Bio.SeqUtils import nt_search
 
 
-
+#function for parsing the fasta file
 def process_file(file_path):
     in_file = SeqIO.parse(file_path, "fasta")
     seq_ID = []
