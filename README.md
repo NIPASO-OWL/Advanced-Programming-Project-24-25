@@ -20,4 +20,4 @@ Functions specifications:
 
 -pairwise_alignment(): takes in 2 user inputted sequence ID form the input file and a data frame containing the sequences, the function returns the alignment with the highest score and the score itself.
 
-The templates and static folders are necessary for the correct functioning of the program. The templates folder contains all the necessary html templates and the static folder contains a files directory which is used to store the user inputted file.
+The templates and static folders are NECESSARY for the correct functioning of the program. The templates folder contains all the necessary html templates and the static folder contains a files directory which is used to store the user inputted file.
