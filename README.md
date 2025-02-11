@@ -2,7 +2,7 @@
 This program handles genomic data and provides an interactive interface with simple motif search and sequence alignment capabilities.
 
 The program takes a user inputted fasta file  and subsequently shows the file as a table. 
-	expected output: 100 rows, columns: Sequence Id, Sequence, GC content(%), length, description.
+	expected output: number of rows = number of sequences, columns: Sequence Id, Sequence, GC content(%), length, description.
 
 The user is then prompter to choose between 'motif search' and 'Pairwise alignment'. (prompt is below the table)
 
