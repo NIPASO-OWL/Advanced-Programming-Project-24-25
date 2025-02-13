@@ -1,0 +1,7 @@
+flask
+flask-session
+flask-wtf
+wtforms
+biopython
+pandas
+werkzeug
